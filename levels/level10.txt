@@ -1,0 +1,18 @@
+type: background, color: grey
+type: birdhouseTree, location: 3000.0
+type: car, location: 888.0
+type: human, location: 538.0
+type: human, location: 361.0
+type: car, location: 2583.0
+type: car, location: 2055.0
+type: human, location: 1794.0
+type: car, location: 1111.0
+type: human, location: 1366.0
+type: tree, location: 1522.0, height: 400.0
+type: tree, location: 2300.0, height: 400.0
+type: stormCloud, location: 1505.0, height: 153.0
+type: cloud, location: 2055.0, height: 77.0
+type: hawk, location: 1000.0, height: 308.0
+type: cloud, location: 638.0, height: 231.0
+type: stormCloud, location: 1061.0, height: 95.0
+type: hawk, location: 2733.0, height: 200.0

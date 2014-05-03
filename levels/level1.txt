@@ -1,0 +1,22 @@
+type: background, color: grey
+type: car, location: 911.0
+type: human, location: 1088.0
+type: birdhouseTree, location: 3000.0
+type: human, location: 1877.0
+type: human, location: 1661.0
+type: car, location: 2433.0
+type: human, location: 427.0
+type: car, location: 2688.88888889
+type: tree, location: 761.111111111, height: 400.0
+type: cloud, location: 1416.0, height: 57.0
+type: stormCloud, location: 2227.77777778, height: 213.333333333
+type: hawk, location: 1177.0, height: 115.0
+type: tree, location: 2194.0, height: 400.0
+type: stormCloud, location: 1950.0, height: 77.0
+type: tree, location: 1350.0, height: 400.0
+type: hawk, location: 1672.0, height: 157.0
+type: hawk, location: 2383.0, height: 64.0
+type: hawk, location: 2883.0, height: 28.0
+type: hawk, location: 1077.0, height: 40.0
+type: stormCloud, location: 2816.0, height: 175.0
+type: stormCloud, location: 416.666666667, height: 168.888888889
